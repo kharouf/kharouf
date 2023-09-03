@@ -6,10 +6,14 @@
 
 - 📫 How to reach me **kharoufwala24@gmail.com**
 
+- 🎯 Portfolio website: [Portfolio](https://wala-kharouf.onrender.com/)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.facebook.com/wala.kharouf.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="akroutaicha" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/wala-kharouf-804749150/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aicha mohamed" height="30" width="40" /></a>
+<a href="https://www.facebook.com/wala.kharouf.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kharouf" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/wala-kharouf-804749150/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wala kharouf" height="30" width="40" /></a>
+<a href="https://api.whatsapp.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp" alt="wala kharouf" height="30" width="40" />+21624243586</a>
 
 </p>
 
@@ -21,3 +25,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kharouf&show_icons=true&locale=en" alt="kharouf" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kharouf&" alt="kharouf" /></p>
+
+
+
+<div align="center">
+    <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
+</div>
